@@ -1,6 +1,4 @@
 
-
-link = 'yours linkS'
 TOKEN = 'yours token'
 URL = 'https://api.vk.com/method/'
 
